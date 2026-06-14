@@ -1,0 +1,6 @@
+{
+  "name": "SheetSense AI",
+  "description": "Upload Excel files or paste Google Sheets URLs to analyze your data, generate smart charts, chat with your dataset using Gemini AI, and get deep analytical insights instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
